@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "ask-sdk": "^2.2.0",
+    "aws-sdk": "^2.348.0",
+    "uuid": "^3.3.2"
+  },
+  "name": "Alexa-Iot-Sustainability",
+  "description": "Alexa Sustainability Project",
+  "version": "1.0.1",
+  "main": "sample.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NAME",
+  "license": "ISC"
+}
