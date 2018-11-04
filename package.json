@@ -2,6 +2,7 @@
   "dependencies": {
     "ask-sdk": "^2.2.0",
     "aws-sdk": "^2.348.0",
+    "es6-promisify": "^6.0.1",
     "uuid": "^3.3.2"
   },
   "name": "Alexa-Iot-Sustainability",
