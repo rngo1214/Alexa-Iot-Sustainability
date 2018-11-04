@@ -1,18 +1,22 @@
 {
-  "dependencies": {
-    "ask-sdk": "^2.2.0",
-    "aws-sdk": "^2.348.0",
-    "es6-promisify": "^6.0.1",
-    "uuid": "^3.3.2"
-  },
-  "name": "Alexa-Iot-Sustainability",
-  "description": "Alexa Sustainability Project",
-  "version": "1.0.1",
-  "main": "sample.js",
-  "devDependencies": {},
+  "name": "skill-sample-nodejs-fact-i18n",
+  "version": "2.0.0",
+  "description": "I18n version of fact skill.",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "NAME",
-  "license": "ISC"
+  "keywords": [
+    "alexa",
+    "skill",
+    "water",
+    "sustainability"
+  ],
+  "author": "Amazon.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ask-sdk": "^2.0.0",
+    "aws-sdk": "^2.348.0",
+    "firebase": "^5.5.7"
+  }
 }
